@@ -4,7 +4,7 @@ USE `mj`;
 
 INSERT INTO `account` (`index_id`, `email`, `password`, `role`)
 VALUES
-	(1, '921046333@qq.com', '36336ed2e9318ffeeef299551fdc8dd870d7cddf', 'admin');
+	(1, '809281832@qq.com', '99a57065ee53ca6037e9b4340a270438b6657904', 'admin');
 
 INSERT INTO `cost` (`index_id`, `mj_type`, `mj_desc`, `rounds`, `cards`, `coins`)
 VALUES
